@@ -3,7 +3,7 @@ package org.example.todoapp;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class ToDoEintrag {
+public class ToDoController {
     @FXML
     private Label welcomeText;
 
